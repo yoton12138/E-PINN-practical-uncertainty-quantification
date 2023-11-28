@@ -5,7 +5,7 @@ equation (12) is not correct, $\mathbb{E}_{\theta(\chi, d) \sim \mathscr{D}}$
 
 should be $\mathbb{E}_{(\chi, d) \sim \mathscr{D}}$
 
-损失函数的符号 L 和 $\mathscr{L}$ 存在混用，这是编辑没有统一，作者在此深表歉意。
+损失函数的符号 L 和 $\mathscr{L}$ 存在混用，它们都表示损失函数，这是最终出版稿才存在的错误，作者在此深表歉意。
 
 # Citation
 If this code is relevant for your research, please consider citing:
