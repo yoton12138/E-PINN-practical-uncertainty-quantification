@@ -1,5 +1,9 @@
 # E-PINN-practical-uncertainty-quantification
-source code. arcticle is availiable at [link](https://www.sciencedirect.com/science/article/pii/S0735193323003299).
+source code. arcticle is availiable at [Practical uncertainty quantification for space-dependent inverse heat conduction problem via ensemble physics-informed neural networks](https://www.sciencedirect.com/science/article/pii/S0735193323003299).
+
+equation (12) is not correct, $\mathbb{E}_{\theta(\chi, d) \sim \mathscr{D}}$
+
+should be $\mathbb{E}_{(\chi, d) \sim \mathscr{D}}$
 
 # Citation
 If this code is relevant for your research, please consider citing:
